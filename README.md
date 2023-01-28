@@ -37,7 +37,7 @@ Tags Explained in Detail:
 1. The tag favicon has been used to display a tiny icon near the web page title on the browser tab.
 2. <Title> - used to display the name of the web page which can be seen on the tab in the webpage.
 3. <link> tag is used to link to external style sheets
-4. Section Heading Elements (<h1> to <h6>) for different levels from highest to lowest.
+4. Section Heading Elements h1 to h6 for different levels from highest to lowest.
 5. <p> HTML element to represent a paragraph text
 6. <form> with two input fields of type(email, submit) 
 7. <i> tag to add icons in different places
